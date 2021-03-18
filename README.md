@@ -1,7 +1,8 @@
 # bioinformatics
 
 #### 介绍
-Bioinformatics Research and Achievement Display Platform for BIO SIG
+
+sig-bio的生物信息研究和研究成果展示平台，存放生物信息研究用到的软件清单、流程分析脚本、指导文档和教程等信息。
 
 #### 软件架构
 软件架构说明
