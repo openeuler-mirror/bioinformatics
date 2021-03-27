@@ -7,6 +7,10 @@ sig-bio的生物信息研究和研究成果展示平台，存放生物信息研�
 #### 目录结构
 src：存放各个具体的生物信息场景的代码和文档。
 
+#### 开发组织
+
+[bioinformatics-dev](https://gitee.com/bioinformatics-dev) 是 openeuler/bioinformatcis的开发团队之一， 负责开源生物信息软件的ARM平台适配、Bug修复、特性开发及维护等。
+
 #### 参与贡献
 
 1.  Fork 本仓库
